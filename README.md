@@ -20,7 +20,7 @@ Pallets è un Admin Site alternativo a quello di Django Base. Di differenze, ha 
 ### 1. Clona il codice
 
 ```bash
-git clone https://github.com/djpallets/community.git pallets
+git clone https://github.com/djpallets/businness.git pallets
 ```
 
 ### 2. Aggiungi alle apps
