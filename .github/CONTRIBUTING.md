@@ -38,7 +38,7 @@ Quando proponi una funzionalità, cerca di spiegare:
 1. Clona il codice sorgente
 
 ```bash
-git clone https://github.com/djpallets/community.git pallets
+git clone https://github.com/djpallets/businness.git pallets
 cd pallets
 ```
 
@@ -75,7 +75,7 @@ python manage.py migrate
 6. Esegui i test e avvia il server di sviluppo per verificare le modifiche.
 
 ```bash
-python manage.py test
+python manage.py test pallets
 python manage.py runserver
 ```
 
